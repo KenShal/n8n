@@ -8,7 +8,7 @@ ENV N8N_BASIC_AUTH_ACTIVE=true
 ENV N8N_BASIC_AUTH_USER=your-Kenneth
 ENV N8N_BASIC_AUTH_PASSWORD=your-Shalom
 
-ENV WEBHOOK_URL=https://MusicSchool-api.up.railway.app/
+ENV WEBHOOK_URL=https://MusicSchool.up.railway.app/
 
 RUN mkdir -p /home/node/.n8n
 
